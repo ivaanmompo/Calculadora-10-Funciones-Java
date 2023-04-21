@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"calculadoracientifica","l":"CalculadoraCientifica"},{"p":"calculadoracientifica","l":"Funciones"},{"p":"calculadoracientifica","l":"Menu"}]
